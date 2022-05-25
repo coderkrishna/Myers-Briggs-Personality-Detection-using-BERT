@@ -1,8 +1,5 @@
 # Myers-Briggs Type Personality Detection using BERT Model
 
-![Open In Colab](https://img.shields.io/github/issues-closed/MLH-Fellowship/Social-BERTerfly?style=for-the-badge)
-![](https://img.shields.io/github/issues-pr-closed/MLH-Fellowship/Social-BERTerfly?color=green&style=for-the-badge)
- 
 *Predicts your personality out of the 16 Myers-Briggs Type Personalities by your Twitter handle and compares your personality types with the people that you follow*
 
 > It utilizes machine learning classifier and NLP using the state of the art language model - **BERT** (Bidirectional Encoder Representations from Transformers) to predict the personality type of the given user based on their recent tweets.
@@ -13,7 +10,7 @@
 
 Follow the below steps to run and explore your personality types, as well as that of your friends!
 
-- `git clone https://github.com/MLH-Fellowship/Social-BERTerfly.git`
+- `git clone https://github.com/coderkrishna/Myers-Briggs-Personality-Detection-using-BERT.git`
 
 - Install the model weights from the following Drive link:
 
